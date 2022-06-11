@@ -1,7 +1,3 @@
-<p align="center">
- <img src="assets/lush-pink-theme-icon.png"/>
-</p>
-
 # LUSH PINK :ribbon: :rabbit:
 
 ***A lush pink theme for VS Code for all coding honey bunnies out there.*** :ribbon: :rabbit:
