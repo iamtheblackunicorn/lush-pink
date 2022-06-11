@@ -13,6 +13,8 @@ Make sure that you have the following installed and available from the command l
 - Git
 - VS Code
 
+Having done this, execute the following steps:
+
 - 1.) Change directory into the `.vscode/extensions` directory on your system.
 - 2.) Execute this command from the command line:
 
