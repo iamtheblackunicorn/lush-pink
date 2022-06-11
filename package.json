@@ -1,21 +1,21 @@
 {
-  "name": "night-pink",
-  "displayName": "Night Pink",
-  "description": "Night Pink Theme",
-  "icon": "assets/night-pink-theme-icon.png",
-  "version": "0.4.0",
-  "publisher": "SamRC",
+  "name": "lush-pink",
+  "displayName": "Lush Pink",
+  "description": "Lush Pink Theme",
+  "icon": "assets/lush-pink-theme-icon.png",
+  "version": "1.0.0",
+  "publisher": "Angeldust Duke",
   "repository": {
     "type": "git",
-    "url": "https://github.com/samRC/night-pink"
+    "url": "https://github.com/iamtheblackunicorn/lush-pink"
   },
   "keywords": [
     "theme",
     "dark theme",
-    "night theme",
+    "lush theme",
     "pink theme",
-    "night pink",
-    "night",
+    "lush pink",
+    "lush",
     "pink",
     "samrc"
   ],
@@ -28,9 +28,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Night Pink",
+        "label": "Lush Pink",
         "uiTheme": "vs-dark",
-        "path": "./themes/Night Pink-color-theme.json"
+        "path": "./themes/lush-pink-color-theme.json"
       }
     ]
   }
