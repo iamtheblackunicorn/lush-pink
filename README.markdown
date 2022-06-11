@@ -29,8 +29,13 @@ $ git clone https://github.com/iamtheblackunicorn/lush-pink
 - 5.) Click `Set Color Theme`.
 - 6.) Enjoy! :heart:
 
-## SCREENSHOT
+## SCREENSHOT :camera_flash:
 
 <p align="center">
  <img src="assets/lush-pink-theme.png"/>
 </p>
+
+## NOTE :scroll:
+
+- *Lush Pink :ribbon: :rabbit:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
+- Licensed under the MIT license.
